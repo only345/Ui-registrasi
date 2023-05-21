@@ -1,0 +1,24 @@
+.konten{
+  border: none;
+  color: #FFFFFF; /* Warna teks putih */
+  background-color: #00b894;
+  width: 250px;
+}
+.kolom{
+  height: 30px;
+  width: 300px;
+  color: black;
+  background-color: #FFFFFF;
+  border:none ;
+}
+.kolom:hover{
+  outline: none;
+}
+.button{
+  background-color: #FFFFFF;
+  border: none;
+  width: 150px;
+  height: 25px;
+  letter-spacing: 5px;
+  
+}
